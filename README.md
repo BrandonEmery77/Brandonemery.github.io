@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](google.com)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](google.com) 
+- <b>project 1</b>
+  - [project 1](item in main)
+- <b>project 2</b>
+  - [project 2](item in main) 
 
 
 <h2> 🤳 Connect with me:</h2>
