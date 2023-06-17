@@ -8,7 +8,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Google Certificate Capstone Project</b>
-  - [Salifort Motors Project Lab](https://google.com) - The goal in this project is to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
+  - [Salifort Motors Project Lab]([https://github.com/BrandonEmery77/Salifort-Motors-Project-Lab](https://github.com/BrandonEmery77/Salifort-Motors-Project-Lab/blob/main/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)) - The goal in this project is to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 
 <h2>👨‍💻 Education:</h2>
 
