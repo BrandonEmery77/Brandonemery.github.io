@@ -15,7 +15,7 @@
 - <b>Certificates</b>
   - Google Advanced Data Analytics
   - Google Data Analytics
-  - Python for Everybody via Coursera
+  - Python for Everybody
 - <b>BS in Business Computer Information Systems</b>
   - A BCIS degree is an academic program that merges the realms of business administration and computer information systems to equip students with comprehensive expertise in leveraging technology to drive data-driven insights and decision-making in business environments. Through this degree, students develop proficiency in data analytics, harnessing the power of data to uncover patterns, trends, and meaningful information that can shape strategic business outcomes. By combining business acumen and technical skills, BCIS graduates possess the ability to transform raw data into actionable intelligence, empowering organizations to make informed decisions and gain a competitive edge in today's data-driven landscape.
 
