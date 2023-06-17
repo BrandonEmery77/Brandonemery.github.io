@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>project 1</b>
-  - [project 1](item in main)
+- <b>Google Certificate Capstone Project</b>
+  - [Salifort Motors Project Lab](https://openai.com) The goal in this project is to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 - <b>project 2</b>
   - [project 2](item in main)
 
