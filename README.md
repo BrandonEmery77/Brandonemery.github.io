@@ -14,7 +14,7 @@
 - <b>Certificates</b>
   - [Google Advanced Data Analytics](https://www.credly.com/badges/b6af02df-ab76-4d0b-9791-254bc51c3088/linked_in_profile)
   - [Google Data Analytics](https://www.credly.com/badges/c3e0c52a-e294-47b0-ba9a-0fc474d71755)
-  - [Python for Everybody]()
+  - [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/FCLJTEACVLNE)
 - <b>BS in Business Computer Information Systems</b>
   - A BCIS degree is an academic program that merges the realms of business administration and computer information systems to equip students with comprehensive expertise in leveraging technology to drive data-driven insights and decision-making in business environments. Through this degree, students develop proficiency in data analytics, harnessing the power of data to uncover patterns, trends, and meaningful information that can shape strategic business outcomes. By combining business acumen and technical skills, BCIS graduates possess the ability to transform raw data into actionable intelligence, empowering organizations to make informed decisions and gain a competitive edge in today's data-driven landscape.
 
