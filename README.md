@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brandon! </h1>
 
-[Resume]()
+[Resume](https://github.com/BrandonEmery77/Brandonemery77.github.io/blob/main/Emery%2C%20Resume.pdf)
 
 <h2>👨‍💻 What I'm working on currently:</h2>
 
