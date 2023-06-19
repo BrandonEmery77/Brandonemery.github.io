@@ -1,5 +1,7 @@
 <h1>Hi, I'm Brandon! </h1>
 
+[Resume]()
+
 <h2>👨‍💻 What I'm working on currently:</h2>
 
 - <b>Data Analytics Portfolio</b>
