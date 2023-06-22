@@ -8,6 +8,9 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
+- <b>Custom Project</b>
+  - [Death rates for suicide, by sex and age by year in the United States from 1950 to 2018]() - The goal in this project is to clean the dataset and look for trends in the data.
+
 - <b>Coursera Capstone Project</b>
   - [Salifort Motors Project Lab](https://github.com/BrandonEmery77/Salifort-Motors-Project-Lab/blob/main/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb) - The goal in this project is to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 
