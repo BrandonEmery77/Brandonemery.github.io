@@ -4,6 +4,8 @@
 
 <h2>👨‍💻 What I'm working on currently:</h2>
 
+- <b>PostgreSQL for Everybody on Coursera</b>
+
 - <b>Data Analytics Portfolio</b>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
