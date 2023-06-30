@@ -22,6 +22,11 @@
 - <b>Python</b> (Beginner level)
 - <b>R</b> (Beginner level)
 
+
+<h2>👨‍💻 Tools:</h2>
+
+- DBeaver, Toad, Jupyter Notebook, Excel, Microsoft Products, Slack, Service Now, Tableau
+
 <h2>👨‍💻 Education:</h2>
 
 - <b>Certificates</b>
