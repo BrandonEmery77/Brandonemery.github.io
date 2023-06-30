@@ -19,6 +19,9 @@
 <h2>👨‍💻 Languages:</h2>
 
 - <b>SQL</b> (Intermediate level)
+    - PostgreSQL
+    - Microsoft SQL Server
+    - MySQL
 - <b>Python</b> (Beginner level)
 - <b>R</b> (Beginner level)
 
