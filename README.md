@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Custom Project</b>
+- <b>Custom Python Project</b>
   - [Death rates for suicide, by sex and age by year in the United States from 1950 to 2018](https://github.com/BrandonEmery77/Death-rates/blob/main/Death_rates_by_suicide.ipynb) - The goal in this project is to clean the dataset and look for trends in the data.
 
 - <b>Coursera Capstone Project</b>
