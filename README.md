@@ -21,8 +21,6 @@
 - <b>SQL</b> (Intermediate level)
 - <b>Python</b> (Beginner level)
 - <b>R</b> (Beginner level)
-- <b></b>
-
 
 <h2>👨‍💻 Education:</h2>
 
