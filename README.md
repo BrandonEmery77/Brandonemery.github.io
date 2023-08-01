@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 What I'm working on currently:</h2>
 
-- <b>Studying for Certification</b>
+- <b>Studying for Microsoft Power BI Data Analyst Certification</b>
 
 - <b>Data Analytics Portfolio</b>
 
